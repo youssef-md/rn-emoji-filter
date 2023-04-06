@@ -1,11 +1,10 @@
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
-    container: {
-      flexGrow: 1,
-    },
-    camera: {
-        flex: 1,
-    }
-  });
-  
+  container: {
+    flexGrow: 1,
+  },
+  camera: {
+    flex: 1,
+  }
+});
